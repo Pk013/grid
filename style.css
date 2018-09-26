@@ -1,0 +1,9 @@
+.cell{
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+.Grid{
+    display: flex;
+    justify-content: center;
+}
